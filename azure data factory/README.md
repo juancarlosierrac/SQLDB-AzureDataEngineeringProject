@@ -4,7 +4,7 @@
 
 ## Architecture  
 <div align="center">
-    <img src="https://raw.githubusercontent.com/juancarlosierrac/SQLDB-AzureDataEngineeringProject/main/images/Azure%20Data%20Factory%20PL.png" width="600px"/>
+    <img src="https://raw.githubusercontent.com/juancarlosierrac/SQLDB-AzureDataEngineeringProject/main/images/Azure%20Data%20Factory%20PL.png" width="1200px"/>
 </div>  
 
 ---
